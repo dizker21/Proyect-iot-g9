@@ -2,3 +2,4 @@
 Este repositorio contiene los archivos  de git con github desde la terminal y otros plugins
 
 Esta linea representa el commit desde Git a Github
+Esta linea representa el commit desde github desktop 
